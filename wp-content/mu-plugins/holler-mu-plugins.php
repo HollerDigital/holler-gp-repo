@@ -18,7 +18,7 @@ if (! defined('ABSPATH')) { // If this file is called directly.
 }
 
 
-define('HOLLERMU_VERSION', '1.0.0');
+define('HOLLERMU_VERSION', '1.2.1');
 define('HOLLERMU_DOCS_URL', 'https://hollerdigital.com');
 
 if (! defined('HOLLERMU_WHITELABEL')) {
