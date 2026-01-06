@@ -4,7 +4,7 @@
  * Plugin Name: Holler Must-use Plugins
  * Plugin URI: https://hollerdigital.com
  * Description: The plugin designed to work on Gridpane's WordPress hosting platform.
- * Version: 1.0.0
+ * Version: 1.2.0
  * Author: Holler Digital
  * Author URI: https://hollerdigital.com
  * Text Domain: holler-mu-plugins
